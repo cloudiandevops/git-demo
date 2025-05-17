@@ -1,4 +1,4 @@
 Hello from Dev branch
-adding 
+adding new line from remote, just to create conflict
 this is adding to check git pull
 trying to replicat an issue
